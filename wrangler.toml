@@ -12,3 +12,12 @@ HOST = "edge-node.zk757949013.workers.dev"
 binding = "KV"
 id = "c181458777754aa1962952e0a5227a15"
 # Deployed via Workers Builds from zk757949013/edgetunnel
+
+[observability]
+enabled = true
+head_sampling_rate = 1
+
+[observability.logs]
+enabled = true
+invocation_logs = true
+persist = true
