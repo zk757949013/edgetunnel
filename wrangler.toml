@@ -10,3 +10,4 @@ HOST = "edge-node.zk757949013.workers.dev"
 [[kv_namespaces]]
 binding = "KV"
 id = "c181458777754aa1962952e0a5227a15"
+# Deployed via Workers Builds from zk757949013/edgetunnel
