@@ -1,5 +1,5 @@
 name = "edge-node"
-main = "_worker.js"
+main = "heal_entry.js"
 compatibility_date = "2026-10-08"
 compatibility_flags = ["nodejs_compat"]
 keep_vars = true
